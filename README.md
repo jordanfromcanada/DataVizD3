@@ -1,6 +1,6 @@
 # DataVizD3
 
-- Using interactive visualizations to explore datasets of books using D3 and Observable https://observablehq.com/d/4c6f6dde192e080b
+- Using interactive visualizations to explore datasets of books using JavaScript D3 and Observable https://observablehq.com/d/4c6f6dde192e080b
 
 **Flesch reading score vs. book rating**
 <img width="979" alt="Screen Shot 2022-02-18 at 12 20 14 PM" src="https://user-images.githubusercontent.com/65370643/154755829-1e9222fe-b704-4064-b8aa-db2d2db3e7e6.png">
